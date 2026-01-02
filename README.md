@@ -8,7 +8,7 @@ The project aims to augment human decision-making by translating abstract struct
 
 ---
 <p align="center">
-<img src="NateBot/UI.jpg" width="900" alt="UI">
+<img src="UI.jpg" width="900" alt="UI">
 </p>
 
 ---
