@@ -8,7 +8,7 @@ The project aims to augment human decision-making by translating abstract struct
 
 ---
 
-![NateBot UI](NateBot/UI.jpg)
+NateBot/UI.jpg
 
 ---
 
