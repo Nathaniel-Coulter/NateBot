@@ -7,8 +7,9 @@ It introduces the first practical, real-time implementation of **$\lambda_1$ Str
 The project aims to augment human decision-making by translating abstract structural complexity into **actionable, quantitative signals** during play.
 
 ---
-
-NateBot/UI.jpg
+<p align="center">
+<img src="NateBot/UI.jpg" width="900" alt="UI">
+</p>
 
 ---
 
