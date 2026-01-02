@@ -2,7 +2,7 @@
 ## Real-Time Chess Complexity & Tension ($\lambda_1$) Analyzer
 
 NateBot is an interactive chess training system focused on **understanding positions rather than memorizing lines**.  
-It introduces the first practical, real-time implementation of **$\lambda_1$ Strategic Tension** — a graph-theoretic metric of positional complexity derived from combinatorial research and integrated with modern computational analysis.
+It introduces the first practical, real-time implementation of **($\lambda_1$) Strategic Tension** — a graph-theoretic metric of positional complexity derived from combinatorial research and integrated with modern computational analysis.
 
 The project aims to augment human decision-making by translating abstract structural complexity into **actionable, quantitative signals** during play.
 
