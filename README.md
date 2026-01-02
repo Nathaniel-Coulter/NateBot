@@ -17,8 +17,8 @@ The project aims to augment human decision-making by translating abstract struct
 
 Empirical and theoretical insights reveal a fundamental divergence between **human cognition** and **engine optimization**:
 
-- Humans avoid **high-$\lambda_1$ positions** (volatile, highly interconnected states) because working memory degrades under combinatorial load.
-- Chess engines deliberately **seek high-$\lambda_1$ positions**, where deep search thrives on tactical complexity.
+- Humans avoid **high $\lambda_1$ positions** (volatile, highly interconnected states) because working memory degrades under combinatorial load.
+- Chess engines deliberately **seek high $\lambda_1$ positions**, where deep search thrives on tactical complexity.
 
 This asymmetry explains:
 
