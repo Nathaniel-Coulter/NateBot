@@ -104,6 +104,11 @@ Where $\lambda_1$ is the **largest eigenvalue** of the adjacency matrix, compute
 Designed for **experimentation, intuition-building, and structural learning**.
 
 ---
+## 🎯 Custom Puzzles based on your PGN's using Machine Learning !
+(Note: Parser is Built in)
+<p align="center">
+<img src="puzzle1_position_3.png" width="900" alt="UI">
+</p>
 
 ## 🎯 Philosophy
 
